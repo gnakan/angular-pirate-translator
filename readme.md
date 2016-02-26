@@ -1,5 +1,5 @@
 #Overview
-Tutorial application to demonstrate some basic concepts for getting started with AngularJS. A few areas covered:
+Tutorial application I built to demonstrate some basic concepts for getting started with AngularJS. A few areas covered:
 
 1. Creating a module
 2. Using a factory
